@@ -1,1 +1,2 @@
-This a file created during 9-Lithium class.
+Hello, world! 
+This is Eriona Gwen D. Basio
